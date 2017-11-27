@@ -1,0 +1,19 @@
+﻿Build started 02/02/2017 23:29:02.
+     1>Project "F:\Engª.Informatica\2.ano\1ºsemestre\Computação Gráfica\2016-17\TrabalhosPráticos\a15307_Cubo\Cubo\Cubo\Cubo.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_NO_SECURE_WARNING /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:prompt cubo.c
+         cubo.c
+     1>c:\program files\microsoft visual studio 14.0\vc\include\gl\gl.h(30): warning C4068: unknown pragma
+     1>c:\program files\microsoft visual studio 14.0\vc\include\gl\gl.h(1589): warning C4068: unknown pragma
+     1>c:\program files\microsoft visual studio 14.0\vc\include\gl\glu.h(25): warning C4068: unknown pragma
+     1>c:\program files\microsoft visual studio 14.0\vc\include\gl\glu.h(44): warning C4068: unknown pragma
+     1>c:\program files\microsoft visual studio 14.0\vc\include\gl\glu.h(46): warning C4068: unknown pragma
+     1>c:\program files\microsoft visual studio 14.0\vc\include\gl\glu.h(263): warning C4068: unknown pragma
+       Link:
+         C:\Program Files\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Engª.Informatica\2.ano\1ºsemestre\Computação Gráfica\2016-17\TrabalhosPráticos\a15307_Cubo\Cubo\Debug\Cubo.exe" /INCREMENTAL /NOLOGO /LIBPATH:opengl.lib /LIBPATH:opengl32.lib /LIBPATH:glu32.lib glut32.lib glu32.lib opengl32.lib opengl.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"F:\Engª.Informatica\2.ano\1ºsemestre\Computação Gráfica\2016-17\TrabalhosPráticos\a15307_Cubo\Cubo\Debug\Cubo.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Engª.Informatica\2.ano\1ºsemestre\Computação Gráfica\2016-17\TrabalhosPráticos\a15307_Cubo\Cubo\Debug\Cubo.lib" /MACHINE:X86 Debug\cubo.obj
+         Cubo.vcxproj -> F:\Engª.Informatica\2.ano\1ºsemestre\Computação Gráfica\2016-17\TrabalhosPráticos\a15307_Cubo\Cubo\Debug\Cubo.exe
+     1>Done Building Project "F:\Engª.Informatica\2.ano\1ºsemestre\Computação Gráfica\2016-17\TrabalhosPráticos\a15307_Cubo\Cubo\Cubo\Cubo.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:11.59
