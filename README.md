@@ -1,5 +1,5 @@
 # cube_game
-Cube Game - OpenGL and C
+Cube Game - OpenGL and C/C++
 
 This OpenGL exercise in C/C++ allows you to run multiple cubes.
 It is intended that the student implement several functionalities in the following order
